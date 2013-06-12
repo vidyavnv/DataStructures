@@ -205,7 +205,7 @@ void value_delete_node(int value)
   }
 }
 
-void delete_duplicates(int value)
+/*void delete_duplicates(int value)
 {
   if(front==NULL)
     cout<<"Nothing to delete\n";
@@ -241,4 +241,4 @@ void delete_duplicates(int value)
   }
 }
 
-
+*/
